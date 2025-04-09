@@ -1,0 +1,16 @@
+[default.general]
+chip = "nrf52833_xxAA"
+
+[default.probe]
+usb_vid = "0d28"
+usb_pid = "0204"
+
+
+[default.reset]
+halt_afterwards = false 
+
+[default.rtt]
+enabled = true
+
+[default.gdb]
+enabled = false
