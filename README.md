@@ -1,4 +1,6 @@
-# Micro:bit Input Project (written by CoPilot)
+# Micro:bit Input Project 
+
+##readme written by CoPilot
 
 This project demonstrates button input handling and LED matrix control on a BBC micro:bit v2, with serial communication capabilities.
 
